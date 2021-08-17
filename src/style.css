@@ -65,13 +65,12 @@ div.price>span {
     color: #2C2E43;
 }
 
-div.price>p {
-    display: inline-block;
+div.price>strong {
     position: relative;
     right: 96px;
     bottom: 8px;
-    margin: 0;
     color: #747474;
+    font-weight: normal;
 }
 
 div.price>a {
